@@ -40,3 +40,6 @@
 
 Api Gateway, ya que puede servir como un punto de entrada único para microservicios, lo que facilita la gestión de rutas, autenticación, autorización y monitoreo.
 
+## 4. Diagrama con microservicios involucrados
+
+![Diagrama con microservicios involucrados](https://github.com/kebeltranc/ejercicio-ms-cna-00/blob/main/Diagrama.png)
