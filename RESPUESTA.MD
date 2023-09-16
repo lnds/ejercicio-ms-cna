@@ -1,3 +1,8 @@
+Integrantes:
+Nancy Bernal
+Felipe Pérez
+
+
 Liste los micro servicios necesarios y por cada uno describa su función principal.
 
 Dominio: Registro y Validación de Artesanos 
