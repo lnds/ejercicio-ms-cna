@@ -1,0 +1,14 @@
+Dominios o Capacidades del Negocio:
+  - Registro y Validación de Artesanos.
+  - Gestión de Catálogo de Productos.
+  - Compras de Productos.
+  - Gestión de Usuarios (Compradores).
+  - Procesamiento de Órdenes de Compra.
+  - Integración con Plataformas de Pago.
+  - Notificaciones y Comunicación.
+  - Coordinación de Despacho y Logística.
+  - Contabilidad y Facturación.
+  - Contenido Multimedia y Blog.
+  - Tienda de Merchandising.
+  - Aplicación Móvil para Compradores.
+  - Aplicación Móvil para Artesanos.
