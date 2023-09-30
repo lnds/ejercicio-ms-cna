@@ -1,4 +1,4 @@
-Integrantes del grupo: Rocío Contreras Águila - Brebdgary Valenzuela
+Integrantes del grupo: Marco Aguilar - Rocío Contreras Águila 
 
 Haga una descomposición por dominios o por capacidades del negocio y de acuerdo a esta proponga la arquitectura de micro servicios inicial. Dibuje un diagrama con los micro servicios involucrados, dibujando interconexiones entre estos, si es que son necesarias. Deje este dibujo como un archivo PDF, PNG o JPG, junto con su respuesta. Considere micro servicios genéricos y las integraciones con terceras partes.
 
