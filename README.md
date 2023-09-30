@@ -1,3 +1,5 @@
+Marco Aguilar - Rocio Contreras
+
 # Tarea 0 - CNA
 
 ## Instrucciones
